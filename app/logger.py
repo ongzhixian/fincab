@@ -1,6 +1,11 @@
 import json
 import logging
 
+def setup_logging():
+    logging.getLogger('pika').setLevel(logging.WARNING)
+    log = Logger()
+    return log
+    
 class StructuredLogMessage(object):
     def __init__(self, message, **kwargs):
         self.message = message

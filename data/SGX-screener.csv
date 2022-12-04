@@ -1,0 +1,667 @@
+﻿Trading Name,Code,Last Price,ROE %,Mkt Cap ($M),Tot. Rev ($M),P/E,Yield (%),Sector,GTI Score,RIC
+Tai Sin Electric,500,0.385,11.23,180.566,379.052,8.16,6.03,Industrial Goods,78,TAIS.SI
+3Cnergy,502,0.003,51.26,9.201,0.158,0.98,,Real Estate,59,CNER.SI
+HS Optimus,504,0.003,-5.24,16.142,16.752,,,Cyclical Consumer Products,67,HSOP.SI
+AsiaMedic,505,0.011,-0.68,12.316,17.629,,,Healthcare Services,66,ASIM.SI
+Fuji Offset,508,0.3,4.52,14.974,3.817,11.88,1,Industrial Goods,70,FOPS.SI
+Hiap Seng,510,0.02,,6.166,20.95,,,Industrial & Commercial Services,62,HSEN.SI
+Second Chance,528,0.235,5.01,217.711,43.115,14.42,2.13,Retailers,59,SECD.SI
+DISA,532,0.003,-36.9,30.32,24.266,,,Software & IT Services,34,DISA.SI
+ABR,533,0.43,2.33,86.428,83.485,38.5,2.33,Food & Beverages,63,ABRH.SI
+Tung Lok Rest,540,0.115,22.93,31.282,70.979,11.97,,Cyclical Consumer Services,62,TGLK.SI
+Abundance Intl,541,0.028,1.17,33.324,917.007,64.04,1.92,Industrial & Commercial Services,63,ABUN.SI
+Noel Gifts Intl,543,0.196,8.91,20.085,20.652,6.94,1.53,Retailers,72,NOEL.SI
+CSE Global,544,0.335,4.94,207.214,496.392,18.4,8.15,Software & IT Services,98,CSES.SI
+Medtecs Intl,546,0.14,-2.99,78.016,122.414,,5.87,Healthcare Services,66,MTCS.SI
+King Wan,554,0.035,-7.29,24.442,82.73,,,Industrial & Commercial Services,62,KIWC.SI
+UMS,558,1.25,20.98,838.17,326.168,13.8,4,Technology Equipment,76,UMSH.SI
+Spindex Ind,564,0.98,11.18,113.058,206.009,6.59,3.57,Industrial Goods,68,SNEX.SI
+SHS,566,0.148,-1.13,100.36,70.938,,,Industrial & Commercial Services,80,SEEH.SI
+Colex,567,0.22,-7.05,29.155,42.049,,2.05,Industrial & Commercial Services,56,COLX.SI
+Vicplas Intl,569,0.19,11.79,97.192,130.808,11.16,2.37,Healthcare Services,62,VICP.SI
+Abundante,570,0.15,16.33,15.644,8.361,5.24,6.67,Mineral Resources,54,ABUD.SI
+Challenger,573,0.535,9.6,214.942,278.439,15.23,5.23,Retailers,59,CHAL.SI
+ASTI,575,0.014,-6.29,9.548,60.521,,,Technology Equipment,68,ATIH.SI
+KS Energy,578,0.013,,17.077,39.982,,,Energy - Fossil Fuels,49,KSTL.SI
+Oceanus,579,0.015,2.54,383.509,173.573,300,,Food & Beverages,46,OCGL.SI
+Santak,580,0.055,-6.71,5.917,11.677,,,Industrial Goods,72,SATK.SI
+Sunrise Shares,581,0.038,5.09,7.536,1.056,25.71,,Real Estate,58,SUNR.SI
+Progen,583,0.051,-10.59,19.526,3.684,,,Industrial & Commercial Services,64,POGN.SI
+OEL,584,0.008,-76.73,7.47,0.462,,,Healthcare Services,79,OELH.SI
+Asian Micro,585,0.006,-7.72,9.639,4.773,,,Utilities,59,AMHL.SI
+Global Dragon,586,0.08,10.01,54.558,105.882,6.42,12.5,Real Estate,50,GLOL.SI
+CapAllianz,594,0.002,52.42,17.005,4.136,0.7,,Energy - Fossil Fuels,59,CAPL.SI
+GKE,595,0.087,5.24,69.139,104.803,14.33,2.3,Transportation,66,GKEC.SI
+Pavillon,596,0.044,-103.82,63.139,12.602,,,Cyclical Consumer Services,53,PAVI.SI
+Hyflux,600,0.21,-247.15,178.858,150.18,,,Utilities,38,HYFL.SI
+5E Resources,NLC,0.235,,34.79,15.899,18.28,,Industrial & Commercial Services,,ERES.SI
+8Telecom,AZG,0.069,,8.09,0.802,,,Technology Equipment,57,ETEL.SI
+9R,1Y1,0.053,-434.2,53.03,3.469,,,Industrial Goods,,RLIM.SI
+A-Smart,BQC,0.091,-7.15,18.037,6.144,,,Industrial & Commercial Services,57,ASMA.SI
+A-Sonic Aero,BTJ,0.625,16.85,55.57,622.042,5.1,1.28,Transportation,64,ASON.SI
+Abterra,L5I,0.045,98.84,13.158,5.49,,,Energy - Fossil Fuels,-6,ABTR.SI
+Accrelist Ltd,QZG,0.042,-58.02,13.668,241.239,,,Technology Equipment,,ACCR.SI
+Ace Achieve Info,A75,0.008,0.99,5.757,35.514,,,Software & IT Services,42,ACEA.SI
+Acesian Partners,5FW,0.044,48.21,21.435,26.311,5.33,,Industrial & Commercial Services,57,ACES.SI
+Acma,AYV,0.035,-20.29,1.484,46.178,,,Industrial Goods,61,ACMA.SI
+AcroMeta,43F,0.046,1.77,6.651,38.767,61.54,,Industrial & Commercial Services,64,ACRO.SI
+Addvalue Tech,A31,0.012,-106.61,38.904,8.527,,,Technology Equipment,54,AVAU.SI
+Advanced,BLZ,0.072,-3.65,7.454,41.852,,,Energy - Fossil Fuels,89,ADVA.SI
+Advanced Systems,5TY,0.001,,22.324,27.971,25,,Technology Equipment,56,ADSA.SI
+Advancer Global,43Q,0.082,-6.82,20.694,61.707,,16.83,Industrial & Commercial Services,80,ADVN.SI
+Adventus,5EF,0.008,-0.88,17.161,0,,,Real Estate,48,ADVE.SI
+Aedge Group,XVG,0.26,,27.56,,,3.85,Industrial & Commercial Services,,AEDE.SI
+AEM SGD,AWX,3.84,40.52,1200.366,913.694,8.13,3.04,Technology Equipment,68,AEM.SI
+AEM USD,XWA,2.63,,,,,,,,
+AF Global,L38,0.079,-1.51,83.396,9.289,,,Cyclical Consumer Services,76,AFGL.SI
+AGV,1A4,0.01,,9.98,,,,Holding Companies,18,AGVG.SI
+AIMS Property,BVP,1.18,3.26,56.094,5.614,13.87,,Real Estate,,APW.AX
+Alita Resources,40F,0.078,-43.51,117.85,66.854,,,Mineral Resources,48,ALIT.SI
+Alliance HC,MIJ,0.175,15.04,36.38,54.757,11.67,2.57,Healthcare Services,57,ALLA.SI
+AlphaDX,VVL,0.112,,27.212,,,,Software & IT Services,,ALPH.SI
+Alpina Holdings,ZXY,0.19,,35.025,51.89,3.77,3,Industrial & Commercial Services,,ALPI.SI
+Alset,40V,0.037,-50.02,108.274,26.182,,,Real Estate,83,ALSE.SI
+Amara,A34,0.315,1.21,187.504,71.519,39.02,1.54,Cyclical Consumer Services,81,AMRA.SI
+Amcorp Global,S9B,0.12,-9.35,53.625,77.473,,,Real Estate,72,AMCO.SI
+AMOS Group,49B,0.133,-15.72,23.75,98.507,,,Industrial Goods,,AMOS.SI
+Amplefield Ltd,AOF,0.026,0.48,23.416,9.752,72.22,,Real Estate,80,AMPL.SI
+AMTD IDEA OV,HKB,12.97,13.36,370.052,118.729,0.75,,Banking & Investment Services,,AMTD.N
+AnAn Intl,Y35,0.024,24.27,93.13,3919.582,3.81,,Energy - Fossil Fuels,32,ANAN.SI
+Anchun Intl,BTX,0.3,5.3,15.15,31.555,5.15,,Industrial Goods,58,ANIH.SI
+AnnAik,A52,0.075,7.46,22.054,122.771,4.57,9.33,Mineral Resources,60,AAIK.SI
+Annica,5AL,0.001,-139.12,16.975,6.674,,,Energy - Fossil Fuels,47,ANHL.SI
+Aoxin Q & M,1D4,0.169,-1.57,86.408,27.485,,,Healthcare Services,83,AOXI.SI
+AP Oil,5AU,0.155,3.53,25.502,59.093,12.25,6.45,Chemicals,75,AOIL.SI
+AP Strategic,5RA,0.001,-43.15,17.826,1.207,,,Cyclical Consumer Services,44,ASIC.SI
+APAC Realty,CLN,0.57,21.3,200.687,719.253,5.73,13.27,Real Estate,77,APAC.SI
+Arion Ent,YYB,0.007,-61.8,5.604,0.931,,,Cyclical Consumer Services,,ARIO.SI
+Ascent Bridge,AWG,0.8,-17.43,72.065,9.567,,,Mineral Resources,65,ASCE.SI
+Asia Enterprises,A55,0.155,5.14,49.578,48.801,10.13,5.52,Mineral Resources,63,AEHL.SI
+Asia Vets,5RE,0.05,-3.72,7.307,2.522,,4,Healthcare Services,71,ASIV.SI
+Asian Healthcare,1J3,0.189,10.09,109.312,28.037,18.86,3.7,Healthcare Services,86,ASAI.SI
+AsiaPhos,5WV,0.017,-6.35,16.504,2.304,,,Chemicals,64,ASIP.SI
+Asiatic,5CR,0.003,-29.68,4.669,39.665,,,Industrial Goods,49,ATIC.SI
+ASL Marine,A04,0.036,-42.15,21.527,252.134,,,Industrial Goods,60,ASLM.SI
+Aspen,1F3,0.038,-14.3,41.166,56.931,,,Real Estate,76,ASPE.SI
+Aspial Corp,A30,0.08,-0.07,173.726,469.522,,9.38,Cyclical Consumer Products,34,ASPA.SI
+Aspial Lifestyle,5UF,0.158,10.58,219.247,255.288,10.69,,Retailers,63,ASPL.SI
+Astaka,42S,0.088,3.23,166.573,11.669,,,Real Estate,47,ASTA.SI
+Atlantic Nav,5UL,0.092,10.68,48.163,80.427,4.61,,Energy - Fossil Fuels,57,ATLA.SI
+Audience,1AZ,0.22,,42.05,,,5.04,Cyclical Consumer Services,,AUDI.SI
+AusGroup,5GJ,0.009,-137.22,27.659,225.807,,,Energy - Fossil Fuels,58,AUSG.SI
+Avarga,U09,0.22,14,213.783,2371.441,4.62,3.73,Cyclical Consumer Products,86,AVAR.SI
+Avi-Tech Hldg,1R6,0.275,,47.038,30.849,14.97,5,Technology Equipment,,AVTO.SI
+AVJennings A$,A05,0.355,3.2,162.492,222.814,12.42,4.43,Real Estate,,AVJ.AX
+Axington,42U,0.19,-3.5,36.344,0,,,Industrial & Commercial Services,84,AXIN.SI
+Axington R,IXOR,0,,,,,,,,
+Axington R1,QPQR,0,,,,,,,,
+Azeus,BBW,7.65,33.65,229.5,41.515,25.75,3.28,Software & IT Services,57,AZEU.SI
+Aztech Gbl,8AZ,0.815,,630.668,,,3.68,Industrial Goods,,AZTE.SI
+B&M Hldg,CJN,2.96,-11.61,25.112,3.181,,0.51,Banking & Investment Services,67,BMHL.SI
+Baker Technology,BTP,0.55,5.29,113.612,86.25,10.48,0.89,Holding Companies,80,BATE.SI
+Ban Leong,B26,0.35,19.17,40.775,217.163,5.28,10.71,Technology Equipment,76,BANL.SI
+Banyan Tree,B58,0.275,-2.42,238.682,283.385,,,Cyclical Consumer Services,86,BANY.SI
+BBR,KJ5,0.119,8.41,38.965,175.994,4.92,2.5,Industrial & Commercial Services,61,BBRS.SI
+Beng Kuang,BEZ,0.055,-38.39,10.957,54.221,,,Industrial & Commercial Services,71,BENK.SI
+Best World,CGN,1.76,30.96,802.803,530.49,6.43,,Retailers,64,BEST.SI
+Beverly JCG,VFP,0.001,-139.95,19.681,9.866,,,Healthcare Services,48,BEVE.SI
+BH Global,BQN,0.111,7.2,33.3,47.869,8.87,4.5,Industrial Goods,50,BHGC.SI
+Biolidics,8YY,0.025,,13.803,,,,Healthcare Services,,BIOL.SI
+BlackGoldNatural,41H,0.008,,7.346,15.761,,,Energy - Fossil Fuels,66,BLAC.SI
+Boldtek,5VI,0.034,-12.52,12.025,53.382,,,Real Estate,64,BOLD.SI
+Bonvests,B28,0.945,2.93,379.434,167.639,15.46,0.79,Cyclical Consumer Services,62,BVHS.SI
+Boustead,F9D,0.785,7.39,395.053,538.371,11.94,5.06,Industrial & Commercial Services,80,BTSS.SI
+Boustead Proj,AVM,0.775,3.35,246.4,277.692,18.41,0.26,Industrial & Commercial Services,87,BOUS.SI
+BRC Asia,BEC,1.83,20.92,502.278,1469.251,6.96,5.49,Cyclical Consumer Products,60,BRCA.SI
+Broadway Ind,B69,0.118,17.07,55.686,488.435,3.65,8.47,Industrial Goods,31,BRWY.SI
+Brook Crompton,AWC,0.725,6.54,25.708,54.966,9.92,2.76,Industrial Goods,69,BROO.SI
+Bukit Sembawang,B61,4.28,2.9,1108.139,210.059,26.3,0.93,Real Estate,68,BSES.SI
+Bumitama Agri,P8Z,0.62,32.45,1080.882,1372.328,3.62,7.4,Food & Beverages,51,BUMI.SI
+Bund Center,BTE,0.47,0.84,357.43,73.782,97.51,10.64,Real Estate,36,BCIL.SI
+Camsing Hc,BAC,1.07,,31.051,5.461,,,Retailers,44,CAMS.SI
+Capital World,1D5,0.005,149.79,9.327,1.208,,,Real Estate,53,CAPI.SI
+CapitaLandInvest,9CI,3.67,,19355.889,2598,9.04,,Real Estate,,CAPN.SI
+Captii,AWV,0.385,19.08,13.262,22.971,1.47,4.52,Telecommunications Services,33,CAPT.SI
+Casa,C04,0.082,2.97,17.206,21.676,9.75,3.66,Cyclical Consumer Products,62,CASA.SI
+CDW,BXE,0.225,9.43,56.74,192.424,8.34,7.43,Technology Equipment,82,CDWH.SI
+Centurion,OU8,0.335,11.9,285.865,168.818,3.72,2.21,Real Estate,71,CNCL.SI
+CFM,5EB,0.109,16.29,20.355,26.851,10.78,,Industrial Goods,56,CFMH.SI
+CH Offshore,C13,0.045,-6.51,38.78,24.382,,,Energy - Fossil Fuels,51,CHOF.SI
+Charisma Energy,5QT,0.002,,26.554,18.376,,,Utilities,52,CHAR.SI
+Chasen,5NV,0.06,3.05,23.332,161.746,11.98,,Transportation,71,CHHL.SI
+ChasWood Res,5TW,0.009,,2.27,0.921,,,Cyclical Consumer Services,41,CHAS.SI
+Chemical Ind,C05,0.68,8.02,51.643,100.533,5.17,2.21,Chemicals,49,CHEM.SI
+China Aviation,G92,0.775,4.01,666.962,24686.508,13.68,2.47,Transportation,78,CNAO.SI
+China Env,5OU,0.037,-23.23,31.133,1.124,,,Industrial & Commercial Services,59,CHEN.SI
+China Env Res,RS1,0.007,-4.01,101.827,93.188,,,Automobiles & Auto Parts,,1130.HK
+China Everbright,U9E,0.25,9.96,715.219,1266.126,3.51,8.68,Utilities,69,CEWL.SI
+China Fishery,B0Z,0.076,2.22,269.775,659.91,,,Food & Beverages,45,CNFG.SI
+China Intl,BEH,0.102,-17.25,7.739,19.894,,29.41,Industrial & Commercial Services,61,CHNA.SI
+China Mining,BHD,0.053,35.59,21.624,5.687,1.13,,Real Estate,60,CMIL.SI
+China Yuanbang,BCD,0.185,-13.39,12.839,15.216,,,Real Estate,59,CYBP.SI
+ChinaKangdaFood,P74,0.03,-1.29,129.884,1773.354,,,Food & Beverages,56,0834.HK
+ChinaKundaTech,GU5,0.021,-41.99,8.606,3.971,,,Chemicals,61,CKUN.SI
+ChinaSunsine,QES,0.405,20.74,398.272,766.768,3.06,2.47,Chemicals,,CHSN.SI
+Chip Eng Seng,C29,0.74,0.88,609.774,1129.245,84.28,2.7,Real Estate,63,CESE.SI
+Choo Chiang,42E,0.31,15.51,64.48,82.39,7.89,7.42,Industrial Goods,59,CHOO.SI
+Chuan Hup,C33,0.21,0.81,194.309,21.289,72.51,4.76,Real Estate,63,CHHS.SI
+CityDev,C09,8.3,14.68,7556.294,2906.217,6.06,0.96,Real Estate,115,CTDM.SI
+Civmec,P9D,0.595,14.47,295.502,698.323,7.53,5.04,Industrial & Commercial Services,78,CIVM.SI
+Clearbridge,1H3,0.035,-37.99,21.019,37.939,,,Healthcare Services,66,CLEA.SI
+CNMC Goldmine,5TP,0.195,4.49,77.869,45.946,32.67,1.05,Mineral Resources,71,CNMC.SI
+Combine Will,N0Z,0.85,6.34,27.478,199.9,3.43,5.88,Personal & Household Products & Services,74,CWIHx.SI
+ComfortDelGro,C52,1.24,5.8,2687.635,3655.7,17.02,3.99,Transportation,100,CMDG.SI
+Cordlife,P8A,0.29,4.15,77.582,59.737,13.41,3.1,Healthcare Services,62,CORD.SI
+Cortina,C41,4,27.11,662.314,799.155,8.15,0.5,Retailers,69,CORT.SI
+COSCO SHP SG,F83,0.171,5.26,385.15,196.036,13.06,,Transportation,53,COSC.SI
+CosmoSteel,B9S,0.134,2.84,35.022,46.083,16.86,5.6,Mineral Resources,88,COSM.SI
+Courage Inv,CIN,0.041,20.37,87.816,101.32,1,,Transportation,,1145.HK
+Creative,C76,1.43,-13.36,111,82.99,,,Technology Equipment,41,CREA.SI
+CreditBureauAsia,TCU,0.95,16.68,218.87,46.588,27.68,3.58,Industrial & Commercial Services,55,CRED.SI
+CSC,C06,0.01,-14.08,35.883,263.664,,,Industrial & Commercial Services,69,CSCH.SI
+CSE Global R,9VQR,0.007,,,,,,,,
+CSE Global R1,XHPR,0.008,,,,,,,,
+Darco Water Tech,BLR,0.12,-13.23,11.26,68.797,,,Utilities,63,DRWT.SI
+Datapulse Tech,BKW,0.107,-5.35,23.53,1.921,,,Real Estate,66,DATA.SI
+DBS,D05,34.47,11.63,90437.234,10871,13.61,4.12,Banking & Investment Services,109,DBSM.SI
+Debao Property,BTF,0.128,-3.64,9.526,36.442,,15.63,Real Estate,40,DPDL.SI
+Del Monte Pac,D03,0.315,11.07,1103.288,3162.038,8.98,7.47,Food & Beverages,105,DMPL.SI
+Delfi,P34,0.785,15.57,479.758,596.681,9.75,4.61,Food & Beverages,68,DELF.SI
+DFIRG USD,D01,2.53,2.68,3477.931,8961.7,121.51,2.92,Food & Drug Retailing,,DFIR.SI
+Digilife Tech,BAI,1.49,,16.656,,,,Telecommunications Services,73,DIGI.SI
+Don Agro,GRQ,0.23,12.91,34.563,39.576,3.68,3.7,Food & Beverages,,DONA.SI
+Dragon,MT1,0.004,,1.368,3.854,,,Industrial Goods,64,DRGN.SI
+Duty Free Intl,5SO,0.088,1.51,118.003,34.652,70.94,,Retailers,58,DUTY.SI
+Dyna-Mac,NO4,0.205,20.67,197.858,237.893,32.32,,Industrial Goods,74,DMHL.SI
+Econ Healthcare,EHG,0.185,1.15,47.545,49.723,118.59,3.3,Healthcare Services,,ECOE.SI
+EcoWise,5CT,0.078,-32.92,72.125,22.629,,,Industrial & Commercial Services,78,ECOW.SI
+Edition,5HG,0.004,-29.26,10.093,0.212,,,Food & Beverages,68,EDIT.SI
+Eindec,42Z,0.05,12.77,5.385,22.53,6.36,,Industrial & Commercial Services,62,EIND.SI
+Ellipsiz,BIX,0.28,2.42,46.796,55.595,16.97,3.57,Technology Equipment,56,ELPZ.SI
+Emperador Inc.,EMI,0.49,12.65,318663.531,60218.887,32.39,,Food & Beverages,,EMI.PS
+Eneco Energy,R14,0.012,-10.57,23.107,44.023,,,Energy - Fossil Fuels,38,ENEC.SI
+EnGro,S44,1,10.76,118.702,131.928,3.81,2.5,Mineral Resources,71,ENGR.SI
+Envictus,BQD,0.168,-3.99,51.143,158.577,,,Cyclical Consumer Services,51,ETIK.SI
+Enviro-Hub,L23,0.048,4.22,73.776,45.559,22.97,,Industrial & Commercial Services,66,EHHL.SI
+ES,5RC,0.053,-14.93,7.484,28.735,,,Industrial Goods,73,ESGL.SI
+ETC Singapore,1C0,0.034,,32.523,,,,Real Estate,82,EMER.SI
+EuroSports Gbl,5G1,0.191,-18.2,50.615,62.426,,,Retailers,82,EURO.SI
+Ezra,5DN,0.011,-121.68,32.174,710.629,,,Energy - Fossil Fuels,30,EZRA.SI
+F & N,F99,1.26,4.1,1831.473,2003.214,14.65,3.97,Food & Beverages,71,FRNM.SI
+Falcon Energy,5FL,0.027,,23.197,39.832,,,Energy - Fossil Fuels,50,FEGL.SI
+Far East,5TJ,0.088,1.77,9.809,93.951,12.87,2.05,Industrial Goods,64,FAEA.SI
+Far East Orchard,O10,1.04,3.03,488.968,115.545,12.58,2.91,Cyclical Consumer Services,92,FARE.SI
+Federal Int,BDU,0.138,4.87,19.426,122.131,4.95,,Energy - Fossil Fuels,80,FEDL.SI
+Figtree,5F4,0.059,-9.05,21.204,22.826,,3.39,Real Estate,52,FIGT.SI
+First Resources,EB5,1.51,22.53,2486.995,1562.495,7.13,4.84,Food & Beverages,88,FRLD.SI
+First Sponsor,ADN,1.2,6.77,1108.988,547.666,12.85,2.88,Real Estate,88,FSCA.SI
+FJ Benjamin,F10,0.024,8.29,28.496,80.903,9.8,,Retailers,59,FJBN.SI
+Food Empire,F03,0.65,14.49,361.728,470.695,7.49,2.45,Food & Beverages,41,FEMP.SI
+Forise Int,8A1,0.108,2.15,4.601,1.602,85.07,,Industrial & Commercial Services,,FOIL.SI
+FortressMinerals,OAJ,0.33,21.94,165,62.796,9.78,2.42,Mineral Resources,67,FORR.SI
+Frasers Property,TQ5,0.935,7.79,3710.109,3877.042,4.29,3.17,Real Estate,87,FRPL.SI
+Frencken,E28,1,14.76,427.025,780.706,7.99,4.13,Industrial Goods,71,FREN.SI
+Fu Yu,F13,0.21,12.03,158.129,246.926,8.05,7.86,Industrial Goods,69,FUYU.SI
+Full Apex,BTY,0.405,-1.77,17.771,190.76,,,Chemicals,7,FULL.SI
+Fuxing China,AWK,0.63,13.17,11.014,160.944,0.82,,Cyclical Consumer Products,59,FXCG.SI
+G Invacom,QS9,0.054,-3.44,16.097,107.617,,,Technology Equipment,81,GLOB.SI
+G K Goh,G41,0.9,-5.6,281.362,-38.828,,2.23,Banking & Investment Services,69,GKHS.SI
+Gallant Venture,5IG,0.129,-5.88,704.805,148.31,,,Automobiles & Auto Parts,73,GLVT.SI
+GCCP,41T,0.014,-11.21,19.333,2.612,,,Mineral Resources,54,GCCP.SI
+GDS Global,5VP,0.035,-18.97,3.92,13.664,,,Cyclical Consumer Products,70,GDSG.SI
+Genting Sing,G13,0.88,2.29,10642.743,1175.643,59.38,2.27,Cyclical Consumer Services,74,GENS.SI
+Geo Energy Res,RE4,0.375,,518.619,1084.061,1.69,27.4,Energy - Fossil Fuels,80,GEOE.SI
+GHY Culture,XJB,0.43,-0.66,456.362,60.159,,0.24,Cyclical Consumer Services,,GHYC.SI
+Global Inv,B73,0.133,-9.49,229.271,-22.451,,6.02,Collective Investments,98,GLNV.SI
+Global Palm Res,BLW,0.142,8.69,37.153,46.459,6.02,11.62,Food & Beverages,59,GPRL.SI
+Global Testing,AYN,1.28,36.27,45.061,63.345,2.62,15.63,Technology Equipment,82,GTCL.SI
+Golden Agri-Res,E5H,0.285,15.2,3722.889,15181.982,3.82,6.47,Food & Beverages,94,GAGR.SI
+Golden Energy,AUE,0.78,57.6,2044.527,4735.228,3.92,,Energy - Fossil Fuels,64,GOLD.SI
+Goodland,5PC,0.149,1.93,54.381,37.16,13.42,1.09,Real Estate,65,GLGP.SI
+GP Industries,G20,0.615,8.91,307.602,1199.293,7.03,5.08,Industrial Goods,81,GPEI.SI
+Grand Banks,G50,0.295,6.46,54.467,75.177,13.66,1.69,Cyclical Consumer Products,64,GBYL.SI
+Grand Venture,JLB,0.5,17.51,169.645,129.78,10.13,1.6,Industrial Goods,75,GRAN.SI
+Great Eastern,G07,18.33,9.91,8614.407,14713.1,9.13,3.57,Insurance,108,GELA.SI
+Green Build,Y06,0.017,-211.79,4.626,2.938,,,Industrial & Commercial Services,56,GREE.SI
+GRP,BLU,0.05,,9.685,,,,Automobiles & Auto Parts,53,GRPS.SI
+GS Hldg,43A,0.12,,22.679,,,,Industrial & Commercial Services,37,GSHO.SI
+GSH,BDX,0.161,-4.22,318.303,97.881,,,Industrial & Commercial Services,82,GSHC.SI
+GSS Energy,41F,0.046,7.07,28.989,125.953,5.67,,Industrial Goods,84,GSSE.SI
+Guoan Intl,G11,0.011,-15.3,67.1,29.371,,,Technology Equipment,,GUOA.SI
+GuocoLand,F17,1.66,7.9,1905.231,965.514,4.97,3.73,Real Estate,96,GUOC.SI
+H2G Green,5AI,0.018,-12.03,19.786,11.438,,,Cyclical Consumer Products,63,H2GG.SI
+Hafary,5VS,0.205,22.24,88.263,141.019,5.23,7.32,Cyclical Consumer Products,82,HFRY.SI
+Hai Leck,BLH,0.43,5.64,97.435,81.285,13.95,9.3,Energy - Fossil Fuels,48,HLHL.SI
+Halcyon Agri,5VJ,0.395,0.62,630.03,3517.419,109.73,,Automobiles & Auto Parts,97,HALC.SI
+Hatten Land,PH0,0.022,-186.3,39,25.185,,,Real Estate,35,HATT.SI
+Haw Par,H02,9.62,4.24,2138.417,170.874,15.91,3.11,Pharmaceuticals & Medical Research,99,HPAR.SI
+HC Surgical,1B1,0.34,61.27,51.475,19.311,7.93,7.65,Healthcare Services,66,HCSU.SI
+HealthBank,40B,0.157,-7.49,14.051,0.045,,,Cyclical Consumer Services,84,HEAL.SI
+Healthway Med,5NG,0.037,6.76,172.352,153.5,13.33,,Healthcare Services,100,HEMC.SI
+Heatec Jietong,5OR,0.025,-25.67,3.074,18.098,,,Cyclical Consumer Products,57,HTJT.SI
+Heeton,5DP,0.285,4.05,139.004,61.404,7.81,1.32,Real Estate,74,HEET.SI
+Hengyang Petro,5PD,0.148,-0.28,30.112,0,,,Energy - Fossil Fuels,50,HNYG.SI
+HG Metal,BTG,0.37,11.75,50.285,160.996,3.82,10.39,Mineral Resources,46,HGMM.SI
+HGH,5GZ,0.014,-4.33,24.932,22.828,,,Mineral Resources,6,HGHH.SI
+Hiap Hoe,5JK,0.765,1.55,363.036,97.009,31.14,0.65,Real Estate,92,HIAP.SI
+Hiap Tong,5PO,0.07,9.09,21.565,85.224,2.91,,Banking & Investment Services,69,HTCL.SI
+HL Global Ent,AVX,0.25,-1.78,23.479,2.458,,,Cyclical Consumer Services,53,HLGE.SI
+Ho Bee Land,H13,2.47,9.78,1716.145,368.683,4.32,4.1,Real Estate,54,HBEE.SI
+Hock Lian Seng,J2T,0.27,11.2,143.389,147.73,5.83,4.46,Industrial & Commercial Services,55,HLSG.SI
+Hoe Leong,H20,0.003,8.21,41.252,44.949,75,,Industrial Goods,49,HLEC.SI
+Hong Fok,H30,0.975,2.16,848.847,103.349,15.11,1.03,Real Estate,61,HONG.SI
+Hong Lai Huat,CTO,0.067,2.88,34.696,5.635,4.86,2.99,Real Estate,73,HONL.SI
+Hong Leong Asia,H22,0.65,6.57,489.904,4190.424,7.91,3.05,Automobiles & Auto Parts,101,HLAA.SI
+Hong Leong Fin,S41,2.38,4.36,1062.072,243.837,8.15,5.06,Banking & Investment Services,68,HLSF.SI
+HongkongLand USD,H78,4.17,2.37,9286.689,2392.5,11.9,5.28,Real Estate,,HKLD.SI
+Hor Kew,BBP,0.29,6.63,15.099,58.841,3.51,,Industrial & Commercial Services,26,HKEW.SI
+Hosen,5EV,0.052,5.52,17.87,68.146,10.05,3.64,Food & Drug Retailing,45,HSNG.SI
+Hotel Grand,H18,0.88,0.88,672.878,121.548,58.41,1.1,Cyclical Consumer Services,43,HGCS.SI
+Hotel Royal,H12,2.05,-2.16,245.549,31.694,,1.22,Cyclical Consumer Services,61,HTRS.SI
+Hotung Inv,BLS,1.73,5.3,178.97,28.963,11.47,13.63,Banking & Investment Services,29,HOTU.SI
+HPL,H15,3.5,0.88,1805.481,424.081,142.98,1.16,Cyclical Consumer Services,42,HPPS.SI
+HRnetGroup,CHZ,0.795,17.93,809.125,629.603,12.5,4.54,Industrial & Commercial Services,38,HRNE.SI
+Huationg Global,41B,0.084,10.74,14.888,145.934,1.82,,Industrial & Commercial Services,76,HUAT.SI
+Hyphens Pharma,1J5,0.3,13.45,92.633,125.883,13.21,2.23,Pharmaceuticals & Medical Research,76,HYPH.SI
+ICP Ltd,5I4,0.01,-4.8,31.117,5.121,,,Cyclical Consumer Services,53,ICPL.SI
+IFAST,AIY,5.85,7.07,1680.033,212.419,136.98,0.84,Financial Technology (Fintech) & Infrastructure,80,IFAS.SI
+IFS Capital,I49,0.179,3.64,67.299,44.003,10.56,4.36,Banking & Investment Services,63,IFAC.SI
+IHH,Q0F,1.8,6.82,50986.992,17602.588,29.35,1.04,Healthcare Services,,IHHH.KL
+Imperium Crown,5HT,0.016,-167.58,12.64,1.854,,,Real Estate,63,IMPE.SI
+Inch Kenneth,I4R,0,-1.32,174.611,28.195,,,Cyclical Consumer Services,,IKEN.KL
+Incredible,RDR,0.002,-66.88,5.987,11.621,,,Technology Equipment,74,INCR.SI
+Indofood Agri,5JS,0.305,7.39,441.574,1632.813,5.73,2.62,Food & Beverages,70,IFAR.SI
+Informatics,BOU,0.008,,1.419,6.501,,,Academic & Educational Services,56,INFO.SI
+InnoTek,M14,0.47,1.42,115.929,173.72,42.42,4.26,Technology Equipment,85,INTK.SI
+Interra Resource,5GI,0.032,24.83,20.976,28.906,2.03,,Energy - Fossil Fuels,68,INTR.SI
+Intl Cement,KUO,0.023,10.77,131.899,188.809,5.41,,Mineral Resources,69,INTN.SI
+Intraco,I06,0.265,-2.98,30.137,195.966,,,Industrial & Commercial Services,84,ITRS.SI
+IPC Corp,AZA,0.11,-11.55,8.529,3.736,,,Cyclical Consumer Services,49,IPCC.SI
+IPS Securex,42N,0.03,2.99,14.58,15.768,49.18,,Technology Equipment,54,IPSS.SI
+ISDN,I07,0.405,12.51,177.649,413.685,7.28,3.58,Industrial Goods,76,ISDN.SI
+ISEC,40T,0.35,15.78,200.281,58.839,16.61,4.37,Healthcare Services,83,ISEC.SI
+Isetan,I15,2.99,1.29,123.338,90.263,89.07,1,Retailers,65,ISET.SI
+ISOTeam,5WF,0.1,-33.58,34.837,99.878,,,Industrial & Commercial Services,57,ISOT.SI
+iWOW Tech,NXR,0.235,40.79,58.851,34.077,11.79,1.53,Technology Equipment,,IWOW.SI
+IX Biopharma,42C,0.126,-29.24,96.377,14.39,,,Pharmaceuticals & Medical Research,60,IXBI.SI
+Jackspeed,J17,0.131,,40.323,0,,,Automobiles & Auto Parts,67,JACK.SI
+Jadason,J03,0.021,-49.95,15.973,45.147,,,Technology Equipment,64,JADA.SI
+Japan Foods,5OI,0.425,23.48,74.135,71.374,10.28,5.53,Cyclical Consumer Services,73,JPFD.SI
+Japfa,UD2,0.515,3.74,1054.386,6754.335,15.01,1.96,Food & Beverages,71,JAPF.SI
+Jardine C&C,C07,29,12.92,11789.898,27176.295,9.45,4.21,Automobiles & Auto Parts,105,JCYC.SI
+Jason Marine,5PF,0.131,0.49,13.886,31.079,123.58,4.77,Technology Equipment,68,JMGL.SI
+Jasper Inv,FQ7,0.002,,8.708,0,,,Energy - Fossil Fuels,47,JASP.SI
+Jawala,1J7,0.092,1.89,10.9,6.045,50.1,3.26,Applied Resources,59,JAWA.SI
+JB Foods,BEW,0.45,10.31,136.44,660.509,5.96,3.33,Food & Beverages,57,JBFO.SI
+JEP,1J4,0.32,17,132.462,90.982,11.44,,Industrial & Commercial Services,58,JEPH.SI
+JES Intl,EG0,0.026,,31.772,0,,,Industrial Goods,12,JSIH.SI
+Jiutian Chemical,C8R,0.078,62.17,153.11,521.909,1.45,11.3,Chemicals,23,JUTN.SI
+JMH USD,J36,48.88,8.5,14398.464,36647,6.03,4.25,Consumer Goods Conglomerates,,JARD.SI
+Joyas Intl,E9L,0.002,-8.32,4.428,0.728,,,Banking & Investment Services,4,JIHL.SI
+Jubilee,NHD,0.041,-14.37,12.71,231.073,,,Industrial Goods,63,JLJH.SI
+Jumbo,42R,0.265,,163.168,49.591,,,Cyclical Consumer Services,64,JUMB.SI
+Karin Tech,K29,0.32,4.62,68.723,346.621,19.35,664.53,Technology Equipment,69,KARI.SI
+Katrina,1A0,0.033,,7.439,,,,Cyclical Consumer Services,39,KATR.SI
+Kencana Agri,BNE,0.14,36.69,40.182,180.785,2.88,,Food & Beverages,57,KCAL.SI
+Keong Hong,5TT,0.28,,67.918,,,,Industrial & Commercial Services,57,KEHO.SI
+Keppel Corp,BN4,7.64,9.92,13799.828,8303.263,11.92,4.75,Consumer Goods Conglomerates,112,KPLM.SI
+Khong Guan,K03,1.3,0.63,32.782,69.686,88.26,1.57,Food & Beverages,51,KHON.SI
+Kim Heng,5G2,0.089,5.26,58.93,64.761,20.8,,Energy - Fossil Fuels,46,KIMH.SI
+Kimly,1D0,0.35,23.07,443.751,317.748,12.96,3.94,Cyclical Consumer Services,74,KIML.SI
+KingsmenCreative,5MZ,0.26,1.1,52.507,278.487,45.14,,Industrial & Commercial Services,73,KMEN.SI
+Kitchen Culture,5TI,0.08,-29.73,33.652,10.787,,,Retailers,40,KCHL.SI
+Koda,BJZ,0.38,11.1,33.295,107.369,4.32,2.5,Cyclical Consumer Products,71,KODA.SI
+Koh Bros,K75,0.146,3.44,66.138,270.535,6.29,1.32,Industrial & Commercial Services,54,KBRO.SI
+Koh Eco,5HV,0.035,1.4,92.988,172.973,45.83,0.76,Industrial & Commercial Services,51,KBEE.SI
+KOP,5I1,0.05,-39.2,59.83,21.51,,,Cyclical Consumer Services,80,KOPL.SI
+Kori,5VC,0.165,2.23,16.368,20.43,13.85,,Industrial & Commercial Services,70,KORI.SI
+Koyo Intl,5OC,0.051,-10.68,10.002,32.505,,0.98,Industrial & Commercial Services,70,KOYO.SI
+KrisEnergy,SK3,0.03,,45.872,61.426,,,Energy - Fossil Fuels,78,KRIS.SI
+KSH,ER0,0.35,7.38,196.559,268.183,7.96,5.8,Industrial & Commercial Services,77,KSHH.SI
+KTL Global,EB7,0.116,,40.122,1.045,,,Cyclical Consumer Services,57,KTLG.SI
+KTMG,XCF,0.2,21.13,33.936,121.323,8.02,,Cyclical Consumer Products,64,KTMG.SI
+Leader Env,LS9,0.056,-8.11,89.023,8.848,,,Industrial & Commercial Services,63,LETL.SI
+Ley Choon,Q0X,0.017,17.94,25.598,107.17,3.96,,Industrial & Commercial Services,74,LEYC.SI
+LHN,41O,0.295,27.64,120.639,111.772,2.63,5.42,Real Estate,88,LHNL.SI
+LHN Logistics,GIH,0.135,,22.134,,,4.55,Transportation,,LHNO.SI
+LHT,BEI,0.67,9.28,35.408,36.563,6.89,4.51,Applied Resources,80,LHTH.SI
+Lian Beng,L03,0.505,5.77,275.475,788.336,5.98,5.77,Industrial & Commercial Services,66,LIBG.SI
+LifeBrandz,1D3,0.002,-34.71,4.121,0.22,,,Cyclical Consumer Services,29,LIFE.SI
+Lincotrade,BFT,0.173,-8.49,29.761,0,,,Chemicals,79,LINO.SI
+Lion Asiapac,BAZ,0.3,-3.33,27.17,30.706,,,Mineral Resources,34,LIAS.SI
+Livingstone,PRH,0.09,41.76,39.275,34.544,17.61,1.33,Healthcare Services,,LIVI.SI
+LMS Compliance,LMS,0.275,,,,,,,,
+Lonza,O6Z,79.97,10.52,37904.594,5849,41.68,0.59,Pharmaceuticals & Medical Research,,LONN.S
+Lorenzo Intl,5IE,0.016,-168.79,6.756,27.54,,,Retailers,50,LRZI.SI
+Low Keng Huat,F1E,0.39,-4.34,310.303,122.468,,4.76,Industrial & Commercial Services,75,LKH.SI
+LS 2 Holdings,ENV,0.235,-0.74,40.7,58.229,22000,,Industrial & Commercial Services,,LS2H.SI
+Lum Chang,L19,0.38,-4.85,150.162,416.79,,4.49,Industrial & Commercial Services,78,LUCS.SI
+Luminor,5UA,0.1,13.21,15.827,6.759,5.22,,Real Estate,80,LUMI.SI
+Lung Kee Bermuda,L09,0.73,7.44,1572.876,1991.925,9.78,10.44,Industrial Goods,,0255.HK
+Luxking,BKK,0.18,1.8,2.277,110.567,5.4,,Chemicals,63,LUKG.SI
+LY Corp,1H8,0.078,4.22,38.153,70.253,12.95,1.66,Cyclical Consumer Products,47,LYCO.SI
+Magnus Energy,41S,0.001,50.63,12.941,15.49,,,Energy - Fossil Fuels,59,MAGN.SI
+Man Oriental USD,M04,1.75,-0.12,2160.756,413.5,,,Cyclical Consumer Services,,MOIL.SI
+MarcoPolo Marine,5LY,0.044,16.82,151.509,86.095,6.88,,Transportation,42,MAPM.SI
+Maruwa Yen1k,M12,0,20.47,232593.594,59290,14.15,0.39,Technology Equipment,,5344.T
+Mary Chia,5OX,0.028,,6.501,11.392,,,Personal & Household Products & Services,61,MARY.SI
+Matex Intl,M15,0.024,-64.6,7.792,18.502,,,Chemicals,71,MATE.SI
+MDR Limited,Y3D,0.069,-0.96,62.588,175.908,,6.62,Retailers,,MDRT.SI
+Medi Lifestyle,5TN,0.011,,6.569,0.915,,,Healthcare Services,79,MEDL.SI
+Medinex,OTX,0.21,8.09,27.865,12.673,19.55,7.1,Industrial & Commercial Services,77,MEDN.SI
+MegaChem,5DS,0.505,14.5,67.316,148.167,8.16,3.96,Chemicals,73,MEGA.SI
+MeGroup,SJY,0.09,11.12,10.757,116.638,8.11,4.28,Automobiles & Auto Parts,57,MEGR.SI
+Memiontec Hldgs,TWL,0.3,11.81,214.751,34.925,101.88,0.21,Utilities,,MEMI.SI
+Memories,1H4,0.044,,24.104,,,,Cyclical Consumer Services,,MEMO.SI
+Mencast,5NF,0.044,24.83,19.453,46.684,2.86,,Energy - Fossil Fuels,58,MCHL.SI
+Mercurius,5RF,0.041,-78.77,57.112,0,,,Real Estate,47,MERC.SI
+Mermaid Maritime,DU4,0.08,-4.26,106,275.581,,,Energy - Fossil Fuels,49,MMPC.SI
+Meta Health,5DX,0.025,26.3,14.106,41.553,2.12,,Retailers,61,META.SI
+Metech Intl,V3M,0.115,-35.07,15.156,5.224,,,Industrial & Commercial Services,77,METE.SI
+Metis Energy,L02,0.058,8.99,174.041,9.702,19.66,,Utilities,49,METIS.SI
+Metro,M01,0.645,1.44,540.507,113.605,24.19,3.08,Retailers,83,MTHL.SI
+Mewah Intl,MV4,0.3,10.8,442.697,6677.291,4.68,3.25,Food & Beverages,67,MEWI.SI
+MFG Integration,M11,0.046,-14.52,11.091,12.173,,,Technology Equipment,72,MITD.SI
+Micro-Mechanics,5DD,2.75,30.4,382.338,82.199,20.03,4.36,Technology Equipment,106,MMEC.SI
+Midas,5EN,0.192,,366.628,,,,Mineral Resources,9,MIDA.SI
+MindChamps,CNE,0.17,5.18,41.314,63.406,11.17,,Personal & Household Products & Services,69,MIND.SI
+Miyoshi,M03,0.017,-20.52,11.551,47.446,,,Technology Equipment,74,MIYO.SI
+MM2 Asia,1B0,0.046,-17.37,128.368,145.715,,,Cyclical Consumer Services,69,MM2A.SI
+MoneyMax Fin,5WJ,0.205,21.51,90.661,242.281,3.75,4.63,Retailers,63,MFSL.SI
+Mooreast,1V3,0.162,,41.958,,,,Mineral Resources,,MOOR.SI
+Moya Asia,5WE,0.091,10.75,382.526,259.817,10.03,,Utilities,76,MOYA.SI
+MS Hldgs,40U,0.069,-10.82,11.439,16.664,,14.49,Industrial & Commercial Services,62,MSHO.SI
+MSC,NPW,0.47,22.88,651,1367.498,4.77,4.52,Mineral Resources,,MSCB.KL
+MSM Intl,5QR,0.03,14.92,3.162,27.238,2.23,,Industrial Goods,71,MSML.SI
+MTQ,M05,0.25,3.53,47.597,62.086,23.38,2.27,Energy - Fossil Fuels,72,MTLS.SI
+Multi-Chem,AWZ,1.7,17.93,153.161,606.964,6.65,7.94,Technology Equipment,68,MCHE.SI
+Mun Siong Engg,MF6,0.048,-0.36,28.496,74.649,,0.82,Industrial & Commercial Services,63,MSEL.SI
+Murata Yen1k,PJX,0,13.75,5124024,1824671,15.75,1.91,Industrial Goods,,6981.T
+MYP,F86,0.056,1.94,89.178,16.202,16.09,,Real Estate,66,MYPL.SI
+Nam Cheong,N4E,0.004,,31.843,102.384,,,Industrial Goods,66,NMCG.SI
+Nam Lee Metal,G0I,0.34,11.24,82.873,216.15,4.68,4.41,Cyclical Consumer Products,61,NLPM.SI
+Nanofilm,MZH,1.32,14.26,889.014,261.358,14.02,1.57,Chemicals,,NANO.SI
+Natural Cool,5IF,0.023,-27.39,5.76,143.337,,6.09,Industrial & Commercial Services,86,NCHL.SI
+NauticAWT,42D,0.008,-76.29,6.353,0,,,Mineral Resources,54,NAUT.SI
+NeraTel,N01,0.093,-23.79,33.656,120.668,,5.38,Technology Equipment,82,NERA.SI
+Net Pacific Fin,5QY,0.023,-4.56,12.09,0.575,,,Banking & Investment Services,74,NPFH.SI
+New Silkroutes,BMT,0.075,,15.893,39.828,,,Healthcare Services,60,NEWS.SI
+New Toyo,N08,0.22,5.82,96.673,249.439,11.21,8.18,Applied Resources,67,NTYO.SI
+New Wave,5FX,0.008,6.83,13.82,28.372,11.59,,Mineral Resources,68,NEWW.SI
+Nico Steel,5GF,0.001,2.26,4.936,27.105,,,Mineral Resources,63,NICO.SI
+NIO Inc. USD OV,NIO,12.05,-40.68,20195.813,6120.895,,,Automobiles & Auto Parts,,NIO.N
+Nippecraft,N32,0.088,1.74,30.22,183.666,43.53,,Applied Resources,77,NIPP.SI
+No Signboard,1G6,0.031,,14.334,5.451,,,Cyclical Consumer Services,57,NOSI.SI
+Noble,CGP,0.081,,102.231,6694.902,,,Industrial & Commercial Services,8,NOBG.SI
+Nomura Yen1k,N33,1.99,3.72,1615164.5,1753438,14.32,3.8,Banking & Investment Services,,8604.T
+NoonTalk Media,SEJ,0.2,,41.58,,,,Cyclical Consumer Services,,NOON.SI
+Nordic,MR7,0.48,17.97,190,133.656,10.41,3.73,Industrial & Commercial Services,65,NRGL.SI
+Novo Tellus SPAC,NTA,4.33,,43.3,,,,Holding Companies,,NOVO.SI
+NSL,N02,0.85,3.07,317.525,308.781,22.12,5.88,Mineral Resources,53,NATS.SI
+NutryFarm,AZT,0.085,,11.681,17.221,,,Food & Beverages,43,NUTR.SI
+OCBC Bank,O39,12.21,9.54,55758.051,7878,11.12,4.53,Banking & Investment Services,115,OCBC.SI
+Ocean Sky Intl,1B6,0.037,-0.05,15.933,25.023,,,Industrial & Commercial Services,80,OCEA.SI
+Oiltek,HQU,0.19,25.71,29.854,41.446,7.62,,Food & Beverages,,OILT.SI
+OIO,KUX,0.055,-91.48,10.297,4.634,,,Financial Technology (Fintech) & Infrastructure,35,OIOH.SI
+OKH Global,S3N,0.028,-34.3,30.474,16.458,,,Industrial & Commercial Services,79,OKHG.SI
+OKP,5CF,0.162,1.43,49.966,98.564,28.83,4.32,Industrial & Commercial Services,63,OKPH.SI
+Olam Group,VC2,1.43,,5418.102,,,,Food & Beverages,,OLAG.SI
+Old Chang Kee,5ML,0.68,13.25,82.535,82.628,16.73,2.94,Cyclical Consumer Services,82,OCKL.SI
+Olive Tree,1H2,0.101,-19.69,6.954,1.143,,,Real Estate,72,OLIV.SI
+OneApex,5SY,0.153,0.19,12.928,0.929,695.45,,Real Estate,65,ONEA.SI
+Ossia Intl,O08,0.1,20.88,29.81,27.525,3.1,7.63,Retailers,38,OSSA.SI
+OTS Holdings,OTS,0.18,3.8,38.52,34.136,34.35,1.22,Food & Beverages,,OTSH.SI
+OUE,LJ3,1.34,2.13,1126.387,300.806,14.2,1.53,Real Estate,62,OVES.SI
+OUE Lippo HC,5WA,0.03,1.81,133.294,52.595,42.25,,Healthcare Services,87,OUEL.SI
+Ouhua Energy,AJ2,0.068,12.59,26.064,818.791,4.64,,Energy - Fossil Fuels,53,OUEH.SI
+Overseas Edu,RQ1,0.23,3.63,95.534,73.562,19.79,5.65,Academic & Educational Services,75,OVER.SI
+Oxley,5UX,0.149,2.7,635.801,925.899,23.35,1.68,Real Estate,71,OXHL.SI
+OxPay Financial,TVV,0.13,65.95,35.86,17.636,7.98,,Industrial & Commercial Services,,OXPA.SI
+Pacific Andes,P11,0.022,3.95,183.543,1121.852,,,Food & Beverages,50,PACF.SI
+Pacific Century,P15,0.385,10.75,1032.779,32.341,13.79,9.38,Holding Companies,67,PCEN.SI
+Pacific Star Dev,1C5,0.043,,21.719,3.657,,,Real Estate,58,PACS.SI
+PacificRadiance,RXS,0.029,,12.574,-18.418,0,,Energy - Fossil Fuels,,PACI.SI
+Pan Hong,P36,0.106,-1.81,54.999,10.059,,14.15,Real Estate,60,PANH.SI
+PanUnited,P52,0.41,12.36,291.328,648.361,11.51,3.86,Mineral Resources,87,PANU.SI
+Parkson Retail,O9E,0.064,,39.961,213.34,0.9,,Retailers,62,PRAL.SI
+PEC,IX2,0.58,5.97,149.593,427.982,10.53,4.27,Energy - Fossil Fuels,77,PECL.SI
+Pegasus SPAC,PGS,4.31,,131.278,,,,Holding Companies,,PEGA.SI
+Penguin Intl,BTM,0.72,10.26,158.522,151.951,8.25,3.13,Transportation,92,PGUN.SI
+Pharmesis Intl,BFK,0.083,-2.87,1.909,8.913,,,Pharmaceuticals & Medical Research,68,PHAR.SI
+PlatoCapital,YYN,1.16,-1.56,15.345,0.774,,,Software & IT Services,,PLAT.SI
+PNE Industries,BDA,0.775,4.8,63.777,73.725,17.69,6.58,Industrial Goods,49,PNEI.SI
+Polaris,5BI,0.003,-2.6,51.16,70.34,,,Retailers,66,POLA.SI
+Pollux Prop,5AE,0.042,3.1,107.619,10.988,17.49,,Real Estate,64,PLPS.SI
+Powermatic Data,BCY,2.65,12.41,97.129,27.922,11.34,3.77,Technology Equipment,69,PMDS.SI
+Procurri,BVQ,0.41,8.09,121.192,249.628,27.26,,Software & IT Services,88,PROC.SI
+PropNex,OYY,1.64,58.01,599.4,972.795,10.18,7.72,Real Estate,90,PROP.SI
+Prudential USD,K6S,10,3.76,27933.039,1479.644,55.46,1.42,Insurance,,PRU.L
+PSC Corporation,DM0,0.33,7.63,188.429,556.849,7.83,2.27,Applied Resources,87,PSCC.SI
+Q&M Dental,QC7,0.325,16.09,318.736,186.725,18.71,9.8,Healthcare Services,89,QMDT.SI
+QAF,Q01,0.83,5.65,480.349,560.826,16.72,5.99,Food & Beverages,74,QAFS.SI
+Qian Hu,BCV,0.183,3.49,20.775,78.395,12.38,1.64,Food & Beverages,103,QIAN.SI
+Quantum Health,V8Y,0.008,,48.252,,,,Healthcare Services,,QUAN.SI
+Raffles Edu,NR7,0.052,1.43,75.839,105.371,7.41,,Academic & Educational Services,67,RLSE.SI
+Raffles Infrastructure,LUY,0.055,8.06,3.738,13.269,1.19,,Industrial & Commercial Services,70,RAFL.SI
+Raffles Medical,BSL,1.39,11.25,2590.144,762.28,24.78,1.3,Healthcare Services,92,RAFG.SI
+RE&S Hldg,1G1,0.245,24.85,86.73,157.441,9.18,6.94,Cyclical Consumer Services,91,RESH.SI
+Reclaims Global,NEX,0.085,8.63,11.135,31.586,4.72,11.76,Industrial & Commercial Services,86,RECL.SI
+Reenova Investment,5EC,0.003,-144.56,20.243,0,,,Banking & Investment Services,66,REEN.SI
+Regal Intl,UV1,0.115,-69.17,25.806,18.985,,,Real Estate,49,REGI.SI
+Renaissance United,I11,0.001,-26.22,6.181,75.393,,,Utilities,35,RENA.SI
+Resources Gbl,QSD,1.08,47.73,106.2,140.013,6.24,0.85,Energy - Fossil Fuels,,RESU.SI
+Revez,RCU,0.09,-13.54,15.075,7.804,,,Software & IT Services,,REVE.SI
+Rex Intl,5WH,0.235,28.58,309.144,246.525,4.7,2.13,Energy - Fossil Fuels,94,REXI.SI
+RH PetroGas,T13,0.194,262.76,156.645,134.825,3.73,,Energy - Fossil Fuels,75,RHPG.SI
+Rich Capital,5G4,0.003,-48.7,21.976,6.084,,,Real Estate,56,RICH.SI
+Riverstone,AP4,0.635,,957.763,,,14.5,Healthcare Services,74,RVHL.SI
+Sakae,5DO,0.114,1.82,12.922,17.178,11.96,5.49,Cyclical Consumer Services,73,SAKA.SI
+Samko Timber,E6R,0.019,32.69,45.755,372.297,42.76,,Applied Resources,85,SAMT.SI
+SamuderaShipping,S56,0.94,79.22,506.783,1074.722,1.42,8.24,Transportation,80,SAMU.SI
+Samurai 2K,Y8E,0.29,11.6,92.02,34.08,29.11,1.45,Chemicals,,SAMR.SI
+Sanli Env,1E3,0.105,8.4,28.209,75.723,12.03,3.57,Industrial & Commercial Services,71,SANL.SI
+Sapphire,BRD,0.098,5.36,38.313,26.99,5.92,,Industrial & Commercial Services,64,SAPP.SI
+Sarine Tech,U77,0.38,14.46,135.45,77.578,9.47,5.76,Industrial Goods,79,SARI.SI
+SATS,S58,2.67,-1.61,3092.052,1411.766,,,Transportation,128,SATS.SI
+SBI Offshore,5PL,0.038,-18.55,9.533,0,,,Energy - Fossil Fuels,68,SBIO.SI
+SBS Transit,S61,2.58,8.08,798.374,1402.42,16.03,3.09,Transportation,107,SBVV.SI
+Secura,43B,0.07,4.86,28,40.746,13.44,5.71,Industrial & Commercial Services,78,SECU.SI
+Sembcorp Ind,U96,3.28,18.94,5791.655,9260,8.16,2.16,Utilities,111,SCIL.SI
+Sembcorp Marine,S51,0.148,-19.36,4551.419,2112.992,,,Industrial Goods,98,SCMN.SI
+Sen Yue,5BS,0.022,19.76,21.949,55.548,,,Mineral Resources,58,SENY.SI
+Serial System,S69,0.082,3.91,68.84,1245.541,8.9,7.37,Industrial Goods,93,SERL.SI
+Seroja Inv,IW5,0.079,-3.99,31.019,0,,,Transportation,70,SERO.SI
+Sevens Atelier,5EW,0.096,3.08,20.563,16.1,52.46,,Industrial & Commercial Services,73,SEVE.SI
+SGX,S68,9.13,30.82,9816.244,1099.041,22.42,3.49,Banking & Investment Services,118,SGXL.SI
+Shanaya,SES,0.085,,9.589,6.793,,,Industrial & Commercial Services,,SHAA.SI
+Shanghai Turbo,AWM,0.061,-22.96,1.862,12.61,,,Industrial Goods,49,SHTU.SI
+Shangri-La HKD,S07,5.23,-6.79,18357.889,10289.921,,,Cyclical Consumer Services,,0069.HK
+Shen Yao,A78,0.001,-3.33,67.412,79.177,,,Mineral Resources,57,SHEY.SI
+Sheng Siong,OV8,1.64,33.16,2465.801,1350.235,18.59,3.81,Food & Drug Retailing,70,SHEN.SI
+Shenshan,BKV,0.27,3.44,21.566,21.364,3.52,,Food & Beverages,53,CHIS.SI
+Shopper360,1F0,0.121,6.38,13.728,46.799,11.38,2.92,Cyclical Consumer Services,73,SHOP.SI
+SIA,C6L,5.53,3.55,16525.367,13204.4,20.57,,Transportation,96,SIAL.SI
+SIA Engineering,S59,2.23,4.62,2540.503,664.772,33.93,,Transportation,101,SIAE.SI
+SIIC Environment,BHK,0.18,8.1,453.317,1534.11,3.09,8.52,Utilities,63,SIIC.SI
+Silverlake Axis,5CP,0.37,18.07,997.695,226.537,17.59,1.89,Financial Technology (Fintech) & Infrastructure,100,SLVX.SI
+Sim Leisure,URR,0.255,5.47,42.168,12.04,42.89,,Cyclical Consumer Services,47,SIMI.SI
+Sin Heng Mach,BKA,0.44,3.67,50.551,54.647,12.87,2.27,Industrial Goods,63,SIHM.SI
+Sinarmas Land,A26,0.189,6.28,859.821,1042.541,4.29,0.48,Industrial & Commercial Services,82,SINA.SI
+Sincap,5UN,0.005,-2.17,16.666,4.718,,,Energy - Fossil Fuels,39,SINC.SI
+Sing Inv & Fin,S35,1.46,8.25,230.134,75.959,7.02,5.48,Banking & Investment Services,109,SINV.SI
+Sing Paincare,FRQ,0.2,15.71,37.721,18.837,9.67,5.71,Healthcare Services,,SINR.SI
+SingaporeKitchen,5WG,0.059,,9.145,,,8.47,Cyclical Consumer Products,75,SING.SI
+SingaporeLandGrp,U06,2.25,7.82,3223.501,578.89,5.38,1.56,Real Estate,75,SIND.SI
+SingHoldings,5IC,0.36,3.9,146.363,117.147,12.01,2.74,Real Estate,75,SHDS.SI
+SingMedical,5OT,0.4,8.92,192.213,105.257,13.07,1.65,Healthcare Services,73,SMGL.SI
+SingPost,S08,0.52,1.7,1184.726,1893.069,43.46,2.87,Transportation,113,SPOS.SI
+SingShipping,S19,0.24,8.18,98.55,61.965,8.11,4.17,Industrial Goods,71,SSHP.SI
+Singtel,Z74,2.69,7.85,44259.223,14945.5,20.5,3.51,Telecommunications Services,118,STEL.SI
+Singtel 10,Z77,2.69,,,,,,,,
+Sinjia Land,5HH,0.036,-49.05,7.994,0.45,,,Cyclical Consumer Services,76,SINJ.SI
+Sino Grandness,T4B,0.02,6.2,22.962,563.903,,,Food & Beverages,42,SOGF.SI
+SinoCloud,5EK,0.001,-155.93,15.878,2.111,,,Software & IT Services,32,SINL.SI
+Sinostar Pec,C9Q,0.17,4.87,108.8,931.467,9.32,3.53,Energy - Fossil Fuels,65,SNSR.SI
+Sitra,5LE,0.013,,19.283,29.535,,,Applied Resources,82,SITR.SI
+SLB Dev,1J0,0.112,14.09,102.256,92.818,3.9,1.79,Real Estate,66,SLBD.SI
+SMI Vantage,Y45,0.03,-27.3,16.129,0.751,,,Banking & Investment Services,65,SMIV.SI
+Soilbuild Const,S7P,0.035,-13.09,29.443,271.11,,,Industrial & Commercial Services,83,SOIL.SI
+Soon Lian,5MD,0.175,27.7,18.9,68.125,1.81,1.71,Mineral Resources,78,SNLN.SI
+Soup Holdings,5KI,0.088,16.37,26.268,33.569,14.4,2.27,Cyclical Consumer Services,72,SOUP.SI
+Southern Arch,A33,0.002,-357.89,55.142,4.25,,,Real Estate,31,SOUE.SI
+Southern Pkg,BQP,0.35,-0.35,24.612,137.404,,1.29,Applied Resources,66,SOUT.SI
+SouthernAlliance,QNS,0.38,4.5,215.16,54.956,42.99,0.5,Mineral Resources,,SOUH.SI
+SP Corp,AWE,1.58,-4.79,55.457,19.074,,,Retailers,74,SPPS.SI
+Spackman,40E,0.004,,7.797,,,,Cyclical Consumer Services,79,SPAC.SI
+Spura Finance,S23,0.785,3.59,124.569,29.55,13.89,2.55,Banking & Investment Services,88,SBDS.SI
+Sri Trang Agro,NC2,0.745,11.13,29337.6,113738.055,5.41,14.92,Automobiles & Auto Parts,61,STA.BK
+Sri Trang Gloves,STG,0.39,9.15,28365.281,26829.357,8.03,24.24,Healthcare Services,,STGT.BK
+ST Engineering,S63,3.44,24.07,10803.833,8311.882,19.56,4.91,Industrial Goods,90,STEG.SI
+ST Group Food,DRX,0.119,0.57,29.274,43.283,269.05,1.41,Cyclical Consumer Services,69,STGR.SI
+Stamford Land,H07,0.37,-2.63,552.701,148.013,,1.35,Cyclical Consumer Services,82,SFLD.SI
+Stamford Tyres,S29,0.192,3.33,45.578,194.926,11.75,7.81,Automobiles & Auto Parts,74,STAS.SI
+StarHub,CC3,1.08,25,1852.867,2127.5,13.07,5.98,Telecommunications Services,93,STAR.SI
+Straco,S85,0.405,-2.46,351.916,28.858,,2.47,Cyclical Consumer Services,75,STRA.SI
+Straits Trading,S20,2.41,40.19,1079.761,621.777,1.57,2.79,Mineral Resources,64,STCM.SI
+SunMoonFood,AAJ,0.021,-5.12,16.477,45.106,,,Food & Beverages,67,SMFC.SI
+Sunpower,5GD,0.26,15.51,206.878,694.173,8.34,1.15,Industrial Goods,63,SUNP.SI
+Sunright,S71,0.27,-4.91,33.158,100.718,,1.11,Technology Equipment,54,SNRT.SI
+Suntar Eco-City,BKZ,0.1,0.18,6.276,1.132,208.99,,Pharmaceuticals & Medical Research,70,SECL.SI
+SUTL Enterprise,BHU,0.47,10.5,40.924,22.753,6.59,4.26,Cyclical Consumer Services,72,SUTL.SI
+Swiber,BGK,0.109,-4.97,50.229,1163.072,,,Energy - Fossil Fuels,35,SWBR.SI
+Swing Media Tech,BEV,0.46,4.97,25.735,197.862,,,Cyclical Consumer Services,50,SWMT.SI
+Sysma,5UO,0.12,11.01,31.32,52.304,4.6,10.76,Industrial & Commercial Services,52,SYSM.SI
+TA,PA3,0.06,-21.71,31.084,242.644,,,Real Estate,63,TACO.SI
+Taka Jewellery,42L,0.063,5.47,35.627,104.27,5.99,,Retailers,88,TAKA.SI
+TalkMed,5G3,0.4,30.14,529.022,64.361,20.09,6,Healthcare Services,79,TALK.SI
+Tat Seng Pkg,T12,0.63,13.03,100.608,366.933,4.31,6.25,Applied Resources,75,TASE.SI
+TC Auto,VI2,0.18,,106.779,867.75,5.93,2.93,Automobiles & Auto Parts,,TRAS.SI
+TCIL HK$,T15,1.94,4.55,3724.622,12189.908,7.73,4.05,Transportation,,0693.HK
+TEE Intl,M1Z,0.032,,20.016,66.077,,,Industrial & Commercial Services,34,TEEI.SI
+Teho Intl,5OQ,0.053,14.68,12.477,57.176,4.42,1.89,Industrial Goods,77,TEHO.SI
+TeleChoice Intl,T41,0.09,-7.28,40.898,199.834,,1.39,Technology Equipment,89,TCIN.SI
+ThaiBev,Y92,0.64,15.98,16202.973,10594.504,13.82,3.22,Food & Beverages,56,TBEV.SI
+Thakral,AWI,0.495,8.22,64.122,130.388,5.32,8.16,Real Estate,82,THAK.SI
+The Place Hldg,E27,0.015,-6.55,94.09,1.192,,,Holding Companies,50,THEP.SI
+TheHourGlass,AGS,2.08,25.38,1480.525,1116.486,8.07,3.81,Retailers,76,HRGS.SI
+Thomson Medical,A50,0.079,10.53,2088.844,333.706,38.92,1.46,Healthcare Services,62,THOS.SI
+TIH,T55,0.225,1.66,51.962,7.939,24.83,4.65,Collective Investments,67,TIHL.SI
+Tiong Seng,BFI,0.095,-50.11,43.664,263.328,,2.63,Industrial & Commercial Services,68,TISE.SI
+Tiong Woon,BQM,0.46,4.13,103.345,122.588,9.07,0.79,Industrial Goods,71,TION.SI
+TJ DaRenTang USD,T14,1.08,12.86,2724.894,1019.853,6.87,,Pharmaceuticals & Medical Research,76,TIAN.SI
+Top Glove,BVA,0.255,3.24,6935.005,5572.349,30.02,50.77,Healthcare Services,,TPGC.KL
+Tosei,S2D,9.5,10,67767.852,64347.84,9.7,2.73,Real Estate,,8923.T
+Totm Tech,42F,0.105,-22.54,102.046,11.127,,,Financial Technology (Fintech) & Infrastructure,63,TOTM.SI
+Travelite,BCZ,0.091,16.32,5.743,39.371,2.17,,Retailers,60,TRHL.SI
+Trek 2000 Intl,5AB,0.077,-22.3,24.957,32.58,,,Technology Equipment,51,TRKL.SI
+Trendlines,42T,0.088,-9.84,77.057,3.81,,,Banking & Investment Services,92,THET.SI
+TrickleStar,CYW,0.21,-40.8,17.468,15.949,,0.95,Industrial Goods,65,TRIC.SI
+Tritech,5G9,0.027,-27.74,28.357,24.739,,,Industrial & Commercial Services,65,TTGL.SI
+Triyards,RC5,0.084,-114.28,27.271,157.264,,,Energy - Fossil Fuels,46,TRIY.SI
+TSH,KUH,0.131,-3,5.811,5.981,,,Cyclical Consumer Services,,TSHC.SI
+TT Intl,T09,0.014,,14.54,34.544,,,Retailers,37,TINL.SI
+Tuan Sing,T24,0.31,-0.59,393.895,215.347,,2.19,Real Estate,101,TSHS.SI
+Tye Soon,BFU,0.41,9.3,35.342,235.881,6.69,2.1,Automobiles & Auto Parts,51,TYES.SI
+UGHealthcare,8K7,0.195,17.54,121.646,232.598,3.28,1.64,Healthcare Services,,UGHE.SI
+Uni-Asia Grp,CHJ,0.83,14.53,65.631,93.966,2.66,11.38,Industrial & Commercial Services,89,UAFC.SI
+Union Gas,1F2,0.46,24.68,146.173,146.294,12.07,2.17,Utilities,83,UNIO.SI
+Union Steel,BLA,0.545,11,21.461,80.135,3.03,1.83,Mineral Resources,69,UNIS.SI
+United Food,AZR,0.043,-5.21,8.08,11.361,,,Chemicals,28,UTDF.SI
+Universal Res,BGO,0.17,-64.96,4.093,0.01,,,Energy - Fossil Fuels,41,UNIV.SI
+UnUsUaL,1D1,0.137,-3.51,140.998,9.462,,,Cyclical Consumer Services,80,UNUS.SI
+UOA,EH5,0.5,5.28,270.392,237.15,9.66,2.52,Real Estate,,UOS.AX
+UOB,U11,30.91,9.52,52819.977,8829,13.13,3.83,Banking & Investment Services,114,UOBH.SI
+UOB Kay Hian,U10,1.4,6.42,1252.102,522.53,11.01,6.24,Banking & Investment Services,66,UOKH.SI
+UOI,U13,6.51,4.55,397.508,43.035,20.23,2.62,Insurance,75,UOIS.SI
+UOL,U14,6.69,5.78,5701.834,2947.675,9.71,2.22,Real Estate,96,UTOS.SI
+USP Group,BRS,0.089,24.82,8.092,40.607,1.18,,Energy - Fossil Fuels,29,USPG.SI
+V2Y Corp,V2Y,0.022,-139.82,7.785,0.603,,,Insurance,71,V2YC.SI
+Vallianz,WPC,0.055,6.45,66.639,129.806,17.98,,Transportation,64,VHLD.SI
+ValueMax,T6I,0.325,14.98,237.799,297.303,4.71,5.78,Retailers,82,VAMG.SI
+Valuetronics,BN2,0.505,8.57,217.815,359.126,10.82,4.85,Technology Equipment,77,VLUE.SI
+VCPlus,43E,0.008,-71.52,31.851,0.608,,,Mineral Resources,79,VCPL.SI
+Venture,V03,17.4,12.91,5062.544,3471.378,14.61,4.33,Technology Equipment,90,VENM.SI
+Versalink,40N,0.099,3.43,13.365,14.828,26.82,,Industrial & Commercial Services,67,VERS.SI
+Vertex SPAC,VT1,4.52,,186.954,,,,Holding Companies,,VERT.SI
+Vibrant Group,BIP,0.075,4.01,51.648,201.82,5.51,2.03,Transportation,70,VIBR.SI
+VibroPower,BJD,0.067,,5.01,,,,Utilities,73,VIBO.SI
+VICOM Ltd,WJP,1.93,21.04,687.862,105.063,26.54,3.38,Industrial & Commercial Services,,VCOM.SI
+Vividthree,OMK,0.034,-31.86,12.631,3.5,,,Cyclical Consumer Services,68,VIVI.SI
+Watches.com Ltd,WVJ,0.011,-17.49,5.86,25.695,,,Retailers,,WATC.SI
+Wee Hur,E3B,0.2,7.68,184.375,232.491,5.63,2.54,Industrial & Commercial Services,64,WHHL.SI
+Willas-Array,BDR,0.5,7.39,241.837,3422.809,4.66,11.96,Technology Equipment,74,0854.HK
+Wilmar Intl,F34,4.12,11.87,26253.945,97969.422,8.3,4.02,Food & Beverages,89,WLIL.SI
+Wilton Resources,5F7,0.022,,60.652,0.444,28.22,,Mineral Resources,52,WILT.SI
+Wing Tai,W05,1.51,3.68,1190.891,514.585,8.67,2,Real Estate,86,WTHS.SI
+Wong Fong Ind,1A1,0.132,4.26,31.02,65.436,14.04,6.06,Industrial Goods,80,WONG.SI
+World Precision,B49,0.31,2.94,124,225.146,18.53,8.27,Industrial Goods,49,WPML.SI
+XMH,BQF,0.275,6.33,31.618,71.886,10.05,0.91,Industrial Goods,61,XMHL.SI
+Y Ventures,1F1,0.022,-86.42,5.431,33.015,,,Software & IT Services,69,YVEN.SI
+Yamada Green Res,BJV,0.146,1.1,25.827,10.803,42.49,,Food & Beverages,38,YAMR.SI
+Yanlord Land,Z25,1.01,9.61,1948.736,6338.162,3.13,6.8,Real Estate,78,YNLG.SI
+Yeo Hiap Seng,Y03,0.64,-0.09,388.859,349.813,,3.1,Food & Beverages,86,YHSS.SI
+YHI Intl,BPF,0.5,9,147.096,444.037,5.72,7.2,Automobiles & Auto Parts,59,YHII.SI
+Ying Li Intl,5DM,0.03,-11.36,86.939,39.112,,,Real Estate,69,YING.SI
+Yoma Strategic,Z59,0.095,-4.87,217.035,104.878,,,Real Estate,106,YOMA.SI
+Yongmao,BKX,0.71,5.76,63.013,190.852,6.67,1.41,Industrial Goods,65,YNMH.SI
+Yongnam,AXB,0.026,,18.303,,,,Industrial & Commercial Services,71,YNAM.SI
+Yunnan Energy,T43,0.169,1.39,275.437,177.4,106.84,,Technology Equipment,43,1298.HK
+YuuZoo Networks,AFC,0.038,,29.694,15.733,,,Software & IT Services,-12,YUUZ.SI
+YZJ Fin Hldg,YF8,0.345,,1402.459,,,,Banking & Investment Services,,YANZ.SI
+YZJ Shipbldg CNY,SO7,5.28,,,,,,,,
+YZJ Shipbldg SGD,BS6,1.42,13.02,5563.708,3825.766,8.77,3.57,Industrial Goods,61,YAZG.SI
+Zheneng Jinjiang,BWM,0.285,3.57,414.397,858.403,9.52,,Renewable Energy,64,ZHEN.SI
+Zhongmin Baihui,5SR,0.68,-13.96,133.498,205.586,,,Retailers,63,ZBRG.SI
+Zhongxin Fruit,5EG,0.031,45.11,33.775,27.258,3.71,,Food & Beverages,64,ZHON.SI
+ZICO Hldgs,40W,0.076,-0.18,26.559,18.96,,,Banking & Investment Services,86,ZICO.SI
+Zixin,42W,0.017,0.61,24.922,52.443,33.71,,Food & Beverages,73,ZIXI.SI
+ARA HTrust USD,XZL,0.375,-1.65,221.988,159.083,,4.14,Real Estate,78,ARAU.SI
+Asian Pay Tv Tr,S7OU,0.11,2.34,196.893,297.064,6.89,9.17,Cyclical Consumer Services,65.4,ASIA.SI
+CapLand Ascott T,HMN,0.935,4.08,3256.115,476.768,17.97,5.49,Real Estate,,CAPS.SI
+CapLand India T,CY6U,1.18,13.87,1381.694,200.643,7.45,,Real Estate,107.2,CAPC.SI
+CDL HTrust,J85,1.2,5.76,1484.424,190.144,16.08,3.11,Real Estate,85.5,CDLT.SI
+Dasin Retail Tr,CEDU,0.245,,201.118,,,14.92,Real Estate,64.9,DASI.SI
+Eagle HTrust USD,LIW,0.137,-131.19,119.567,69.414,,,Real Estate,,EAGL.SI
+Far East HTrust,Q5T,0.605,10.96,1202.971,82.677,6.71,4.27,Real Estate,113.8,FAEH.SI
+Frasers HTrust,ACV,0.445,4.68,847.472,95.856,14.53,3.19,Real Estate,75.6,FRHO.SI
+FSL Trust,D8DU,0.073,11.24,129.068,35.178,12.26,51.76,Transportation,68.5,FSLT.SI
+HPH Trust SGD,P7VU,0.27,,,,,,,,
+HPH Trust USD,NS8U,0.2,6.34,1742.22,1764.043,8,9.15,Transportation,62.7,HPHT.SI
+Kep Infra Tr,A7RU,0.55,2.39,2720.525,1737.755,67.28,7.03,Chemicals,76.7,KEPL.SI
+NetLink NBN Tr,CJLU,0.835,3.89,3351.395,389.276,31.7,6.03,Telecommunications Services,109.4,NETL.SI
+RHT HealthTrust,RF1U,0.019,-3.55,15.644,0.001,,,Industrial & Commercial Services,46.2,RHTH.SI
+AIMS APAC Reit,O5RU,1.21,5.47,875.976,160.344,11.63,6.32,Real Estate,90.2,AIMA.SI
+BHG Retail Reit,BMGU,0.5,1.58,258.742,71.883,35.66,3.62,Real Estate,74,BHGR.SI
+CapLand Ascendas REIT,A17U,2.75,9.92,11804.614,1307.04,11.8,,Real Estate,111.1,CAPD.SI
+CapLand China T,AU8U,1.13,4.11,1908.238,377.967,17.06,7.54,Real Estate,98.8,CAPA.SI
+CapLand IntCom T,C38U,2.02,8.53,13668.352,1346.993,11.53,4.3,Real Estate,108.4,CMLT.SI
+Cromwell Reit EUR,CWBU,1.56,,,,,,,,
+Cromwell Reit SGD,CWCU,2.25,6.08,877.332,208.52,9.97,9.77,Real Estate,,CROM.SI
+Daiwa Hse Log Tr,DHLU,0.64,,429.554,,,4.87,Real Estate,,DAIW.SI
+DigiCore Reit USD,DCRU,0.575,,690.243,,,3.97,Real Estate,,DIGT.SI
+EC World Reit,BWCU,0.45,-3.56,360.378,125.097,,12.74,Real Estate,68.3,ECWO.SI
+EliteComREIT GBP,MXNU,0.495,7.03,235.753,37.543,11.28,10.94,Real Estate,,ELIE.SI
+ESR-LOGOS REIT,J91U,0.35,-14.16,2385.312,269.114,,6.88,Real Estate,89.6,ESRO.SI
+First Reit,AW9U,0.24,8.78,483.581,117.2,6.62,10.92,Real Estate,66.8,FRET.SI
+Frasers Cpt Tr,J69U,2.01,5.26,3492.719,356.931,16.85,4.98,Real Estate,83.3,FCRT.SI
+Frasers L&C Tr,BUOU,1.13,15.48,4231.229,450.187,5.8,6.53,Real Estate,107.4,FRAE.SI
+IREIT Global EUR,8U7U,0.345,,,,,,,,
+IREIT Global SGD,UD1U,0.525,25.75,612.622,83.43,2.45,5.09,Real Estate,64,IREI.SI
+KepPacOakReitUSD,CMOU,0.545,10.92,574.448,146.983,6.18,11.26,Real Estate,97.7,KPEL.SI
+Keppel DC Reit,AJBU,1.82,14.73,3231.062,271.458,10.03,,Real Estate,75.5,KEPE.SI
+Keppel Reit,K71U,0.89,5.97,3349.29,220.561,10.69,5.13,Real Estate,81.6,KASA.SI
+Lendlease Reit,JYEU,0.71,8.43,1646.632,101.662,7.66,5.75,Real Estate,88.8,LEND.SI
+Lippo Malls Tr,D5IU,0.03,-5.53,223.207,205.259,,12.41,Real Estate,84.7,LMRT.SI
+ManulifeReit USD,BTOU,0.375,8.02,667.888,194.718,6.71,12.54,Real Estate,79,MANU.SI
+Mapletree Ind Tr,ME8U,2.2,8.43,6085.544,669.76,13.85,4.94,Real Estate,86.9,MAPI.SI
+Mapletree Log Tr,M44U,1.6,11.41,7839.458,721.288,9.84,5.01,Real Estate,92.1,MAPL.SI
+Mapletree PanAsia Com Tr,N2IU,1.65,6.61,8901.305,608.915,12.45,4.89,Real Estate,87.1,MACT.SI
+OUE Com Reit,TS0U,0.36,1.27,1967.401,232.175,49.93,5.69,Real Estate,73.3,OUEC.SI
+ParkwayLife Reit,C2PU,3.84,24.92,2335.309,121.315,7.06,3.1,Real Estate,95.4,PWLR.SI
+Prime US ReitUSD,OXMU,0.475,8.97,578.286,166.476,6.62,14.04,Real Estate,63.3,PRIE.SI
+Sabana Reit,M1GU,0.42,6.96,460.371,87.671,11.55,6.3,Real Estate,61.1,SABA.SI
+Sasseur Reit,CRPU,0.78,10.25,957.721,134.6,8,9.43,Real Estate,86.9,SASS.SI
+SPHREIT,SK6U,0.9,6.29,2515.711,278.857,13.93,,Real Estate,85.8,SPHR.SI
+StarhillGbl Reit,P40U,0.535,2.67,1202.717,186.434,23.83,5.92,Real Estate,85.6,STHL.SI
+Suntec Reit,T82U,1.39,9.64,3997.567,394.847,6.55,5.76,Real Estate,83.2,SUNT.SI
+UtdHampshReitUSD,ODBU,0.49,11.38,279.642,61.242,5.81,11.12,Real Estate,,UNIE.SI

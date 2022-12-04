@@ -1,11 +1,6 @@
 import json
 import logging
 
-def setup_logging():
-    logging.getLogger('pika').setLevel(logging.WARNING)
-    log = Logger()
-    return log
-    
 class StructuredLogMessage(object):
     def __init__(self, message, **kwargs):
         self.message = message
@@ -19,8 +14,9 @@ class StructuredLogMessage(object):
 
 sm = StructuredLogMessage   # optional, to improve readability
 
-class Logger():
+class Logger(object):
     """
+    Singleton logger
     Log Levels
     ----------
     CRITICAL    50
@@ -30,12 +26,23 @@ class Logger():
     DEBUG       10
     """
 
-    def __init__(self):
+    _instance = None
+
+    def __new__(cls):
+        if cls._instance is None:
+            print('Creating the object')
+            cls._instance = super(Logger, cls).__new__(cls)
+            cls.initialize_log_configuration()
+        return cls._instance
+
+    def initialize_log_configuration():
         logging.basicConfig(
-            level=logging.DEBUG,
-            format='%(asctime)s.%(msecs)06d %(name)-12s %(levelname)-8s %(message)s',
-            datefmt='%Y-%m-%d %H:%M:%S',
-        )
+                level=logging.DEBUG,
+                format='%(asctime)s.%(msecs)06d %(name)-12s %(levelname)-8s %(message)s',
+                datefmt='%Y-%m-%d %H:%M:%S',
+            )
+        logging.getLogger('pika').setLevel(logging.WARNING)
+        print("reset")
 
     def debug(self, message, **kwargs):
         """DEBUG : 10"""
@@ -56,3 +63,9 @@ class Logger():
     def critical(self, message, **kwargs):
         """CRITICAL : 50"""
         logging.critical(sm(message, **kwargs))
+
+# Exports
+
+
+
+log = Logger()

@@ -1,12 +1,10 @@
-from logger import setup_logging
+from logger import log
 
 from file_collectors.mic_collector import MicFileCollector
 from file_collectors.nasdaq_collector import NasdaqCollector
 from catalog_builder import CatalogBuilder
 
 if __name__ == "__main__":
-
-    log = setup_logging()
 
     output_path = '../output'
 

@@ -3,8 +3,7 @@ import sqlite3
 
 from os import path
 
-from logger import Logger
-log = Logger()
+from logger import log
 
 class CatalogBuilder(object):
 
@@ -28,8 +27,9 @@ class CatalogBuilder(object):
         db_cursor.execute(
             """
 CREATE TABLE IF NOT EXISTS "sb" (
-	"exchange"	TEXT,
-	"symbol"	TEXT,
+    "exchange"	TEXT UNIQUE,
+	"symbol"	TEXT UNIQUE,
+	"name"	TEXT,
 	"isin"	TEXT,
 	"sedol"	TEXT,
 	"cusip"	TEXT,
@@ -41,10 +41,11 @@ CREATE TABLE IF NOT EXISTS "sb" (
 	"valor"	TEXT,
 	"wkn"	TEXT,
 	"telekurs"	TEXT,
+	"mic"	TEXT,
 	"create_dt"	TEXT,
 	"update_dt"	TEXT,
 	PRIMARY KEY("exchange","symbol")
-)""")
+);""")
 
     def process_nasdaq_data(self):
         log.info("Process data (TODO)", data_type="nasdaq")
@@ -58,4 +59,12 @@ CREATE TABLE IF NOT EXISTS "sb" (
 
         if 'data' in json_data and 'rows' in json_data['data']:
             data_rows = json_data['data']['rows']
-            breakpoint()
+        
+        insert_data = []
+        for row in data_rows:
+            insert_data.append((row["symbol"], row["name"], row["symbol"], row["name"]))
+        with sqlite3.connect("instruments.sqlite3") as db_connection:
+            db_connection.executemany(
+                """INSERT INTO sb(symbol, name)
+SELECT ?, ?
+WHERE NOT EXISTS(SELECT 1 FROM sb WHERE symbol = ? AND name = ?);""", insert_data)
